@@ -3,7 +3,7 @@
 <!--
 **Nessvh/Nessvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- I'm currently learning Computer Science and Bootstrap
+- I'm currently learning Computer Science and Javascript
 - Working on some projects for my portfolio
 - From 🇵🇹 to everywhere! 💻
 
