@@ -1,11 +1,10 @@
-name: Profile Readme Development Stats
+name: Waka Readme
 
-on:  
-  workflow_dispatch:
+on:
   schedule:
-    # Runs at 00:00am IST
-    - cron: '0 0 * * *'
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -21,5 +20,3 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: False
           SHOW_SHORT_INFO: False
           
-  
-
