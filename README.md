@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything you want!**
 
-- 📫 How to reach me **info@silvivanessa.dev**
+- 📫 How to reach me **info@silviavanessa.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
