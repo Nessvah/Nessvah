@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **portfolio**
 
-- 🌱 I’m currently learning **Sass and JavaScript.**
+- 🌱 I’m currently learning **JavaScript.**
 
 - 💬 Ask me about **anything you want!**
 
