@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 and welcome! I'm Sílvia Vanessa</h1>
-<h3 align="center">A passionate self-taught frontend developer based in Bragança, Portugal.</h3>
+<h3 align="center">A passionate developer based in Bragança, Portugal.</h3>
 
 <p align="left"> <a href="https://twitter.com/nessvah_" target="blank"><img src="https://img.shields.io/twitter/follow/nessvah_?logo=twitter&style=for-the-badge" alt="nessvah_" /></a> </p>
 
