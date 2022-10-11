@@ -1,3 +1,5 @@
+<img src="banner.png">
+
 <h1 align="center">Hi 👋 and welcome! I'm Sílvia Vanessa</h1>
 <h3 align="center">A passionate software developer based in Bragança, Portugal.</h3>
 
