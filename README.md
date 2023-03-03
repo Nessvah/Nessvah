@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer based in Bragança, Portugal.</h3>
 
 ## 💫 About Me:
-👩 Pronouns: she/her<br> 🔭 I’m currently working on my portfolio and a multi-page web app with React.<br> 🌱 I’m currently learning React and some .NET Core<br> 🤝 I’m looking to collaborate on open source projects that their goals and vision aligns with mine<br> 💬 Ask me about anything you want. Let's connect!<br> 📫 How to reach me: info@silviavanessa.dev<br> ❤️ I love visiting new cities and meet new people.<br> 
+👩 Pronouns: she/her<br> 🔭 I’m currently working on my portfolio and a multi-page web app with React.<br> 🌱 I’m currently learning React and some .NET<br> 🤝 I’m looking to collaborate on open source projects that their goals and vision aligns with mine<br> 💬 Ask me about anything you want. Let's connect!<br> 📫 How to reach me: info@silviavanessa.dev<br> ❤️ I love visiting new cities and meet new people.<br> 
 
 [![](https://visitcount.itsvg.in/api?id=Nessvah&icon=5&color=12)](https://visitcount.itsvg.in)
 
