@@ -10,19 +10,19 @@
 
 <p align="left"> <a href="https://twitter.com/nessvah_" target="blank"><img src="https://img.shields.io/twitter/follow/nessvah_?logo=twitter&style=for-the-badge" alt="nessvah_" /></a> </p>
 
-- 🔭 I’m currently working on **I'm currently working on my portfolio and a full-stack web app for system management of points of interest in Bragança.**
+- 🔭 I’m currently working on **my portfolio and a full-stack web app for system management of points of interest in Bragança.**
 
 - 🌱 I’m currently learning **Cloud, AWS, Docker**
 
-- 👯 I’m looking to collaborate on **open source projects that align with my visions and morals.**
+- 👯 I’m looking to collaborate on **open-source projects that align with my visions and morals.**
 
-- 👨‍💻 All of my projects are available here on my github but I also work with gitlab for my course assignements.
+- 👨‍💻 All of my projects are available here on my GitHub but I also work with Gitlab for my course assignments.
 
 - 💬 Ask me about **anything related with tech!**
 
 - 📫 How to reach me **info@silviavanessa.dev**
 
-- ⚡ Fun fact **Coffee and music addict, and I would love to learn Korean some day.**
+- ⚡ Fun fact **Coffee and music addict, and I would love to learn Korean someday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
