@@ -10,8 +10,8 @@
 
 
 ## 🌱 What's Keeping Me Busy
-- 💼 I'm currently interning at Merkle DACH, where I'm working on a groundbreaking project: an API with GraphQL for seamless system integrations.
-- 🚀 Additionally, I'm crafting my portfolio, and when time permits, I contribute to [Codecademy's Docs](https://www.codecademy.com/resources/docs), or other learning platforms, by writing technical documentation. It's a rewarding way for me to share knowledge and support the learning community.
+- 💼 I'm currently interning at Merkle DACH, where I'm working on a groundbreaking project: a GraphQL package to generate a backoffice allowing for different systems integration.
+- 🚀 I'm actively developing a solo project with C# and .NET Core, building a blog/forum platform hosted on Microsoft Azure. This project aims to enhance user engagement and facilitate knowledge sharing within the UPskill program community..
 
 
 ## 🔧 Technologies & Tools
