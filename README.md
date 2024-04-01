@@ -11,7 +11,7 @@
 
 ## 🌱 What's Keeping Me Busy
 - 💼 I'm currently interning at Merkle DACH, where I'm working on a groundbreaking project: a GraphQL package to generate a backoffice allowing for different systems integration.
-- 🚀 I'm actively developing a solo project with C# and .NET Core, building a blog/forum platform hosted on Microsoft Azure. This project aims to enhance user engagement and facilitate knowledge sharing within the UPskill program community..
+- 🚀 I'm actively developing a solo project with C# and .NET Core, building a blog/forum platform hosted on Microsoft Azure. This project aims to enhance user engagement and facilitate knowledge sharing within the [UPskill](https://upskill.pt/) program community.
 
 
 ## 🔧 Technologies & Tools
