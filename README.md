@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sílvia Vanessa!</h1>
-<h3 align="center">I'm a dedicated JavaScript developer hailing from Portugal, Bragança. Currently, I'm immersed in the world of full-stack web development using the MERN stack.
+<h3 align="center">I'm a dedicated Junior Cloud Engineer from Bragança, Portugal, currently working at Merkle. I specialize in AWS and am actively pursuing certifications as a Linux System Administrator and a Cloud Solutions Architect.
 </h3>
 
 <img src="banner.png">
@@ -10,8 +10,9 @@
 
 
 ## 🌱 What's Keeping Me Busy
-- 💼 I'm currently interning at Merkle DACH, where I'm working on a groundbreaking project: a GraphQL package to generate a backoffice allowing for different systems integration.
-- 🚀 I'm actively developing a solo project with C# and .NET Core, building a blog/forum platform hosted on Microsoft Azure. This project aims to enhance user engagement and facilitate knowledge sharing within the [UPskill](https://upskill.pt/) program community.
+- 💼 I'm working on a project for an international client at Merkle, leveraging my skills in cloud engineering.
+- 📚 I'm focused on advancing my expertise by studying for my Linux System Administrator and Cloud Solutions Architect certifications.
+- 🔧 Due to my professional and educational commitments, I'm not currently engaged in any personal or side projects.
 
 
 ## 🔧 Technologies & Tools
@@ -37,14 +38,12 @@
 
 ## 🚀 Let's Connect!
 - 📧 Reach out to me at: [info@silviavanessa.dev](mailto:info@silviavanessa.dev)
-- 🐦 Follow me on Twitter: [@nessvah_](https://twitter.com/nessvah_)
 - 💼 Connect on LinkedIn: [nessvah](https://linkedin.com/in/nessvah)
 
 ## ⚡ Fun Facts
 - Coffee and music addict ☕🎶
 - I aspire to learn Korean someday 🇰🇷
 
-Excited about tech and open to collaboration on projects that resonate with my values! Let's create something amazing together! 🚀
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
