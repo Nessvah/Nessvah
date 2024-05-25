@@ -12,7 +12,7 @@
 ## 🌱 What's Keeping Me Busy
 - 💼 I'm working on a project for an international client at Merkle, leveraging my skills in cloud engineering.
 - 📚 I'm focused on advancing my expertise by studying for my Linux System Administrator and Cloud Solutions Architect certifications.
-- 🔧 Due to my professional and educational commitments, I'm not currently engaged in any personal or side projects.
+- 🔧 Due to my professional and educational commitments, I'm not currently engaged in open source projects or projects focused mainly on programming.
 
 
 ## 🔧 Technologies & Tools
