@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sílvia Vanessa!</h1>
-<h3 align="center">I'm a dedicated Junior Cloud Engineer from Bragança, Portugal, currently working at Merkle. I specialize in AWS and am actively pursuing certifications as a Linux System Administrator and a Cloud Solutions Architect.
+<h3 align="center">I'm a dedicated Cloud DevOps from Portugal, currently working at Merkle and I specialize in AWS cloud.
 </h3>
 
 <img src="banner.png">
@@ -11,7 +11,7 @@
 
 ## 🌱 What's Keeping Me Busy
 - 💼 I'm working on a project for an international client at Merkle, leveraging my skills in cloud engineering.
-- 📚 I'm focused on advancing my expertise by studying for my Linux System Administrator and Cloud Solutions Architect certifications.
+- 📚 I'm focused on advancing my expertise by studying for my Machine Learning Engineer associate exam.
 - 🔧 Due to my professional and educational commitments, I'm not currently engaged in open source projects or projects focused mainly on programming.
 
 
