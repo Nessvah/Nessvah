@@ -2,8 +2,6 @@
 <h3 align="center">I'm a dedicated Cloud DevOps from Portugal, currently working at Merkle and I specialize in AWS cloud.
 </h3>
 
-<img src="banner.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nessvah&label=Profile%20views&color=0e75b6&style=flat" alt="nessvah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nessvah&theme=onedark" alt="nessvah" /></a> </p>
@@ -37,7 +35,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nessvah&theme=dark)
 
 ## 🚀 Let's Connect!
-- 📧 Reach out to me at: [info@silviavanessa.dev](mailto:info@silviavanessa.dev)
+- 📧 Reach out to me at: [info@cloudswithsilvia.com](mailto:info@cloudswithsilvia.com)
 - 💼 Connect on LinkedIn: [nessvah](https://linkedin.com/in/nessvah)
 
 ## ⚡ Fun Facts
