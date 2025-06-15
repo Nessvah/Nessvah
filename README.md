@@ -22,6 +22,21 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 
 ---
 
+## 🏆 Certifications
+
+<div>
+    <a href="https://www.credly.com/badges/2d6d97ae-6d2e-4101-970f-fc01ea90ba42/public_url" target="_blank">
+        <img src="aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150">
+    </a>
+    <a href="https://www.credly.com/badges/23756af0-3763-4cab-ba56-44cfd371a242/public_url" target="_blank">
+        <img src="aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Admin Associate" width="150">
+    </a>
+</div>
+
+*🎯 Next: AWS Certified Machine Learning Engineer - Associate (Q4 2025)*
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Cloud & DevOps 
@@ -44,15 +59,6 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
 <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
 <img src="https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker Badge"/>
-
----
-
-## 🏆 Certifications
-
-<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect - Associate"/>
-<img src="https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified SysOps Administrator - Associate"/>
-
-*🎯 Next: AWS Certified Machine Learning Engineer - Associate (Q4 2025)*
 
 ---
 
