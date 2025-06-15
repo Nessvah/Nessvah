@@ -27,7 +27,6 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 ### Cloud & DevOps Expertise
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
 <img src="https://img.shields.io/badge/Docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
 <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-%23222222.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
