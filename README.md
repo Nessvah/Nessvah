@@ -26,10 +26,10 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 
 <div>
     <a href="https://www.credly.com/badges/2d6d97ae-6d2e-4101-970f-fc01ea90ba42/public_url" target="_blank">
-        <img src="aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150">
+        <img src="certifications/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150">
     </a>
     <a href="https://www.credly.com/badges/23756af0-3763-4cab-ba56-44cfd371a242/public_url" target="_blank">
-        <img src="aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Admin Associate" width="150">
+        <img src="certifications/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Admin Associate" width="150">
     </a>
 </div>
 
@@ -39,7 +39,7 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 
 ## 🛠️ Technical Skills
 
-### Cloud & DevOps 
+### Cloud & DevOps
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
 <img src="https://img.shields.io/badge/Docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
 <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
@@ -70,8 +70,8 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 
 ## 📊 Currently Working On
 
-• **Building a Personal ML Portfolio**: Developing 3 comprehensive projects showcasing different ML domains  
-• **AWS ML Associate Certification**: Studying for certification exam scheduled for Q4 2025  
+• **Building a Personal ML Portfolio**: Developing 3 comprehensive projects showcasing different ML domains
+• **AWS ML Associate Certification**: Studying for certification exam scheduled for Q4 2025
 
 ---
 
