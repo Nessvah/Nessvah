@@ -70,8 +70,8 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 
 ## 📊 Currently Working On
 
-• **Building a Personal ML Portfolio**: Developing 3 comprehensive projects showcasing different ML domains
-• **AWS ML Associate Certification**: Studying for certification exam scheduled for Q4 2025
+- **Building a Personal ML Portfolio**: Developing 3 comprehensive projects showcasing different ML domains
+- **AWS ML Associate Certification**: Studying for certification exam scheduled for Q4 2025
 
 ---
 
@@ -80,7 +80,7 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 I'm always interested in collaborating on **AWS cloud projects**, **MLOps initiatives**, and **DevOps automation**. Looking for mentorship opportunities in machine learning and open to knowledge sharing with fellow engineers.
 
 **📫 Get in Touch:**
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile-here](https://linkedin.com/in/nessvah)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/nessvah)
 - **Email:** info@cloudswithsilvia.com
 
 ---
