@@ -1,52 +1,98 @@
-<h1 align="center">Hi 👋, I'm Sílvia Vanessa!</h1>
-<h3 align="center">I'm a dedicated Cloud DevOps from Portugal, currently working at Merkle and I specialize in AWS cloud.
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nessvah&label=Profile%20views&color=0e75b6&style=flat" alt="nessvah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nessvah&theme=onedark" alt="nessvah" /></a> </p>
-
-
-## 🌱 What's Keeping Me Busy
-- 💼 I'm working on a project for an international client at Merkle, leveraging my skills in cloud engineering.
-- 📚 I'm focused on advancing my expertise by studying for my Machine Learning Engineer associate exam.
-- 🔧 Due to my professional and educational commitments, I'm not currently engaged in open source projects or projects focused mainly on programming.
-
-
-## 🔧 Technologies & Tools
-### Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
-
-### Frameworks & Libraries:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="60" height="60" style="filter: invert(1)"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="60" height="60"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="60" height="60">
-
-### Databases:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="60" height="60">
-
-### Cloud & DevOps:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="60" height="60"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rockylinux/rockylinux-original.svg" alt="Rocky Linux 9" width="60" height="60" >
-
-### Other Tools:
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60">
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nessvah&show_icons=true&locale=en&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nessvah&show_icons=true&locale=en&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nessvah&theme=dark)
-
-## 🚀 Let's Connect!
-- 📧 Reach out to me at: [info@cloudswithsilvia.com](mailto:info@cloudswithsilvia.com)
-- 💼 Connect on LinkedIn: [nessvah](https://linkedin.com/in/nessvah)
-
-## ⚡ Fun Facts
-- Coffee and music addict ☕🎶
-- I aspire to learn Korean someday 🇰🇷
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3lhdWRncjN3a3JlMW5yd2JsaGRrZXZqMDRxaGxrcW5kNDN0dnc3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XQfENRbhW7dJBL5OFe/giphy.gif" width="200" />
+  <h1>Hello, I'm Sílvia Costa! 👋</h1>
+  <p><strong>Cloud & DevOps Engineer</strong> | <strong>AWS certified</strong> | <strong>Expanding into AI/ML</strong></p>
+</div>
 
 ---
 
+## 🚀 Quick Overview
 
-  
+- **1+ years** of hands-on experience building cloud infrastructures with AWS, Docker, and Kubernetes
+- **Currently expanding** into AI/ML and MLOps to integrate intelligent solutions in cloud environments
+- **Passionate about** continuous learning and implementing modern DevOps practices
+
+---
+
+## 💼 About Me
+
+I'm a dedicated **Cloud & DevOps Engineer** currently working full-time, focusing on AWS cloud solutions and learning to implement CI/CD pipelines, infrastructure-as-code deployments, and containerized applications. With 1+ years of hands-on experience, I'm building my expertise in cloud technologies while maintaining a strong foundation in DevOps practices.
+
+I'm on an exciting journey expanding into **Artificial Intelligence and Machine Learning**, focusing specifically on **MLOps practices** and **AWS AI/ML services**. My goal is to bridge the gap between traditional DevOps and modern AI operations while helping companies implement practical AI/ML solutions that solve real business problems.
+
+---
+
+## 🛠️ Technical Skills
+
+### Cloud & DevOps Expertise
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+<img src="https://img.shields.io/badge/Docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+<img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-%23222222.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"/>
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+
+### Programming & Development
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
+<img src="https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML Badge"/>
+
+### AI/ML & Data Science (Actively Learning)
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+<img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
+<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+<img src="https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker Badge"/>
+
+---
+
+## 🏆 Certifications
+
+<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect - Associate"/>
+<img src="https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator-Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified SysOps Administrator - Associate"/>
+
+*🎯 Next: AWS Certified Machine Learning Engineer - Associate (Q4 2025)*
+
+---
+
+## 🚀 Featured Projects
+
+[TO DO]
+
+---
+
+## 📊 Currently Working On
+
+• **Building a Personal ML Portfolio**: Developing 3 comprehensive projects showcasing different ML domains  
+• **AWS ML Associate Certification**: Studying for certification exam scheduled for Q4 2025  
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in collaborating on **AWS cloud projects**, **MLOps initiatives**, and **DevOps automation**. Looking for mentorship opportunities in machine learning and open to knowledge sharing with fellow engineers.
+
+**📫 Get in Touch:**
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile-here](https://linkedin.com/in/nessvah)
+- **Email:** info@cloudswithsilvia.com
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nessvah&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Sílvia's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nessvah&theme=dark&hide_border=true&background=0D1117" alt="Sílvia's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nessvah&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Bridging the gap between traditional DevOps and modern AI operations, one pipeline at a time."</i>
+</div>
