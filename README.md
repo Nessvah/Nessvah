@@ -39,7 +39,40 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 
 ## 🚀 Featured Projects
 
-[TO DO]
+### 🤖 Enterprise knowledge assistant
+
+*AI-powered document search and retrieval system for internal documentation*
+
+#### Problem Statement: 
+Technical teams waste countless hours searching through scattered Confluence documentation. New joiners struggle to find relevant docs, and even experienced engineers often give up and reinvent solutions or search externally rather than locate existing internal knowledge.
+  
+#### Solution:
+An intelligent document assistant that makes organizational knowledge instantly accessible through natural language queries.
+
+#### Architecture:
+- Data Pipeline: Python script extracts and convert Confluence pages to text files
+- Storage: AWS S3 bucket for document storage and versioning
+- Knowledge Base: Amazon Bedrock Knowledge Base with Titan embeddings for semantic search
+- Vector Database: OpenSearch Serverless for efficient similarity matching
+- AI Model: DeepSeek foundation model for response generation and augmentation
+- Frontend: ChatGPT/Claude-style interface for intuitive user interaction
+
+**Key Features:**
+
+- Natural language document search across entire knowledge base
+- Source attribution with direct links to original Confluence pages
+- Context-aware responses that summarize relevant information
+- Quick overview generation to help users decide if they need to dive deeper
+
+**Privacy-First Design:**
+- Documents remain within company AWS environment
+- No external model training on proprietary data
+- Full audit trail and access control
+- Enterprise-grade security and compliance
+
+**Tech Stack:** Python, AWS (S3, Bedrock (Titan embeddings, DeepSeek (FM)), OpenSearch), Confluence API, Web Frontend
+
+**Impact:** Transforms hours of frustrating document hunting into seconds of targeted knowledge retrieval.
 
 ---
 
