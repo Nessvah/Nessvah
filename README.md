@@ -37,6 +37,19 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 
 ---
 
+## 🚀 Featured Projects
+
+[TO DO]
+
+---
+
+## 📊 Currently Working On
+
+- **Building a Personal ML Portfolio**: Developing 3 comprehensive projects showcasing different ML domains
+- **AWS ML Associate Certification**: Studying for certification exam scheduled for Q4 2025
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Cloud & DevOps
@@ -59,19 +72,6 @@ I'm on an exciting journey expanding into **Artificial Intelligence and Machine 
 <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
 <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
 <img src="https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker Badge"/>
-
----
-
-## 🚀 Featured Projects
-
-[TO DO]
-
----
-
-## 📊 Currently Working On
-
-- **Building a Personal ML Portfolio**: Developing 3 comprehensive projects showcasing different ML domains
-- **AWS ML Associate Certification**: Studying for certification exam scheduled for Q4 2025
 
 ---
 
