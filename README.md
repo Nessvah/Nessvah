@@ -8,7 +8,7 @@
 
 ## 🚀 Quick Overview
 
-- **1+ years** of hands-on experience building cloud infrastructures with AWS, Docker, and Kubernetes
+- **1+ years** of hands-on experience building cloud infrastructures with AWS.
 - **Currently expanding** into AI/ML and MLOps to integrate intelligent solutions in cloud environments
 - **Passionate about** continuous learning and implementing modern DevOps practices
 
