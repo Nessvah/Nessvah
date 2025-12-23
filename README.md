@@ -114,7 +114,7 @@ I'm always interested in collaborating on **AWS cloud projects**, **Kubernetes d
 **📫 Get in Touch:**
 
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/nessvah)
-- **Email:** [info@cloudswithsilvia.com](mailto:info@cloudswithsilvia.com)
+- **Email:** [contact@silviacosta.io](mailto:contact@silviacosta.io)
 - **Website:** [cloudswithsilvia.com](https://cloudswithsilvia.com)
 
 ---
