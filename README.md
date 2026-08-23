@@ -1,122 +1,81 @@
-![Header GIF](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<img src="assets/header.svg" alt="Sílvia Costa — Cloud & DevOps Engineer" width="100%">
 
-# Hello, I'm Sílvia Costa! 👋
+<img src="assets/stats.svg" alt="3 AWS certifications · 2+ years building · next cert AWS DevOps Professional · focus MLOps" width="100%">
 
-**Cloud & DevOps Engineer** | **AWS & ML Certified** | **Expanding into Kubernetes**
+## About
 
----
+I'm a Cloud & DevOps Engineer working full-time on AWS cloud solutions: CI/CD pipelines, infrastructure-as-code deployments, and containerized applications. 2+ years of hands-on experience, with a strong foundation in DevOps practices.
 
-## 🚀 Quick Overview
+My work has moved from traditional cloud infrastructure into AI and Machine Learning. After earning my AWS Machine Learning certification, I'm building hands-on experience through practical projects and expanding into **Kubernetes** and **MLOps practices**, currently in early prep for the AWS DevOps Engineer – Professional while working on ML projects to strengthen my understanding of the full ML lifecycle.
 
-- **1+ years** of hands-on experience building cloud infrastructures with AWS
-- **AWS Machine Learning certified** - now building practical ML skills through hands-on projects
-- **Actively learning** Kubernetes and container orchestration for CKA certification
-- **Passionate about** continuous learning and bridging DevOps with ML operations
+The focus: practical experience across cloud infrastructure, ML operations, and container orchestration, to build well-rounded, end-to-end solutions.
 
----
-
-## 💼 About Me
-
-I'm a dedicated **Cloud & DevOps Engineer** currently working full-time, focusing on AWS cloud solutions, implementing CI/CD pipelines, infrastructure-as-code deployments, and containerized applications. With 1+ years of hands-on experience, I'm building my expertise in cloud technologies while maintaining a strong foundation in DevOps practices.
-
-My journey has evolved from traditional cloud infrastructure into exploring **Artificial Intelligence and Machine Learning**. After earning my AWS Machine Learning certification, I'm now building hands-on experience through practical projects and expanding my skill set into **Kubernetes** and **MLOps practices**. I'm currently preparing for the **CKA (Certified Kubernetes Administrator)** certification while working on ML projects to strengthen my understanding of the full ML lifecycle.
-
-My focus is on gaining practical experience across cloud infrastructure, ML operations, and container orchestration to build well-rounded, end-to-end solutions.
-
----
-
-## 🏆 Certifications
+## Certifications
 
 <p>
   <a href="https://www.credly.com/badges/2d6d97ae-6d2e-4101-970f-fc01ea90ba42/public_url">
-    <img src="/certifications/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width="150"/>
+    <img src="certifications/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="130"/>
   </a>
   <a href="https://www.credly.com/badges/23756af0-3763-4cab-ba56-44cfd371a242/public_url">
-    <img src="/certifications/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Admin Associate" width="150"/>
+    <img src="certifications/aws-certified-sysops-administrator-associate.png" alt="AWS Certified SysOps Administrator – Associate" width="130"/>
   </a>
   <a href="https://www.credly.com/badges/74fd981d-740d-4107-9c64-2621d62757b9/public_url">
-    <img src="/certifications/aws-certified-machine-learning-engineer-associate.png" alt="AWS Machine Learning Engineer Associate" width="150"/>
+    <img src="certifications/aws-certified-machine-learning-engineer-associate.png" alt="AWS Certified Machine Learning Engineer – Associate" width="130"/>
   </a>
 </p>
 
-**🎯 Next Goal:** Certified Kubernetes Administrator (CKA) - Target Q1 2026
+| Certification | Issuer | Status |
+| --- | --- | --- |
+| Solutions Architect – Associate | AWS | Held |
+| SysOps Administrator – Associate | AWS | Held |
+| Machine Learning Engineer – Associate | AWS | Held |
+| DevOps Engineer – Professional | AWS | In progress, early preparation |
+| Generative AI – Professional | AWS | Planned next after DevOps Pro |
 
----
+<img src="assets/now.svg" alt="Now: AWS DevOps Engineer Professional, early prep" width="100%">
 
-## 🚀 Featured Projects
+## Featured projects
 
-### 🤖 Enterprise Knowledge Assistant
+### Enterprise Knowledge Assistant
 *AI-powered document search using Amazon Bedrock and OpenSearch*
 
 Built an intelligent system that transforms internal documentation into easily searchable knowledge using natural language queries. The solution leverages AWS Bedrock with Titan embeddings for semantic search, OpenSearch Serverless for vector storage, and DeepSeek as the foundation model. Users can ask questions naturally and receive context-aware answers with source links to original Confluence pages.
 
-**Tech Stack:** Python, AWS (S3, Bedrock, OpenSearch Serverless), Confluence API, React  
-**Impact:** Reduced documentation search time from hours to seconds
+`Python` `AWS S3` `Bedrock` `OpenSearch Serverless` `Confluence API` `React`
 
-### 📊 Sentiment Analysis System *(In Progress)*
+**Impact:** reduced documentation search time from hours to seconds.
+
+### Sentiment Analysis System - *planned*
 *ML pipeline for analyzing customer feedback sentiment*
 
 Building an end-to-end ML pipeline to classify customer feedback sentiment using NLP techniques. The project includes data preprocessing, model training with scikit-learn and TensorFlow, and deployment infrastructure planning. Focus on creating a reproducible pipeline and exploring model versioning and monitoring practices.
 
-**Tech Stack:** Python, TensorFlow, scikit-learn, Pandas, AWS SageMaker  
-**Learning Goals:** End-to-end ML workflow, model evaluation, and deployment strategies
+`Python` `TensorFlow` `scikit-learn` `Pandas` `AWS SageMaker`
 
----
+**Learning goals:** end-to-end ML workflow, model evaluation, deployment strategies.
 
-## 📊 Currently Working On
+## Currently working on
 
-- **Sentiment Analysis Project:** Building an end-to-end ML pipeline for customer feedback classification
-- **Kubernetes Learning:** Hands-on practice with K8s cluster management, networking, and security
-- **CKA Certification Prep:** Studying for the Certified Kubernetes Administrator exam (Target: Q1 2026)
-- **MLOps Fundamentals:** Learning model deployment, versioning, and monitoring best practices
+- **Sentiment Analysis project** - end-to-end ML pipeline for customer feedback classification
+- **Kubernetes** - hands-on cluster management, networking and security
+- **AWS DevOps Engineer – Professional** - early preparation, Generative AI – Professional planned after it
+- **MLOps fundamentals** - model deployment, versioning and monitoring
 
----
+## Stack
 
-## 🛠️ Technical Skills
+**Cloud & infrastructure** - AWS · Terraform · Linux
 
-### Cloud & Infrastructure
+**Containers & orchestration** - Docker · Kubernetes
 
-![AWS Badge](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform Badge](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+**CI/CD & DevOps** - GitHub Actions · Git
 
-### Containers & Orchestration
+**Programming** - Python · Bash · YAML
 
-![Docker Badge](https://img.shields.io/badge/Docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+**AI/ML & data** - TensorFlow · PyTorch · Pandas · NumPy · Jupyter · SageMaker
 
-### CI/CD & DevOps
+## Let's connect
 
-![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-%23222222.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+Always interested in collaborating on AWS cloud projects, Kubernetes deployments and ML learning initiatives. Open to knowledge sharing and to connecting with engineers on a similar path.
 
-### Programming & Scripting
-
-![Python Badge](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Bash Badge](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![YAML Badge](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
-
-### AI/ML & Data Science
-
-![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas Badge](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy Badge](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![SageMaker Badge](https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on **AWS cloud projects**, **Kubernetes deployments**, and **ML learning initiatives**. Open to knowledge sharing, learning from experienced engineers, and connecting with fellow tech enthusiasts on similar journeys.
-
-**📫 Get in Touch:**
-
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/nessvah)
-- **Email:** [contact@silviacosta.io](mailto:contact@silviacosta.io)
-- **Website:** [cloudswithsilvia.com](https://cloudswithsilvia.com)
-
----
-
-*💡 "Building expertise in cloud infrastructure, ML operations, and container orchestration - one project at a time."*
+- LinkedIn - [/in/nessvah](https://linkedin.com/in/nessvah)
+- Email - [hello@silviacosta.io](mailto:hello@silviacosta.io)

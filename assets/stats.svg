@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="92" viewBox="0 0 880 92" role="img" aria-label="3 AWS certifications, 2 plus years building, next certification AWS DevOps Engineer Professional, focus MLOps">
+  
+  <g transform="translate(0,0)">
+    <rect x="0" y="0" width="205" height="92" rx="8" fill="#14120e" stroke="#2a251c"></rect>
+    <text x="18" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#6f6858">AWS CERTS</text>
+    <text x="18" y="68" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="600" fill="#f2ecdd">3<tspan font-size="13" fill="#a29a88"></tspan></text>
+  </g>
+  <g transform="translate(225,0)">
+    <rect x="0" y="0" width="205" height="92" rx="8" fill="#14120e" stroke="#2a251c"></rect>
+    <text x="18" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#6f6858">YEARS BUILDING</text>
+    <text x="18" y="68" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="600" fill="#f2ecdd">2<tspan font-size="13" fill="#a29a88">+</tspan></text>
+  </g>
+  <g transform="translate(450,0)">
+    <rect x="0" y="0" width="205" height="92" rx="8" fill="#14120e" stroke="#2a251c"></rect>
+    <text x="18" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#6f6858">NEXT CERT</text>
+    <text x="18" y="68" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="600" fill="#f2ecdd">DevOps Pro<tspan font-size="13" fill="#a29a88"></tspan></text>
+  </g>
+  <g transform="translate(675,0)">
+    <rect x="0" y="0" width="205" height="92" rx="8" fill="#14120e" stroke="#2a251c"></rect>
+    <text x="18" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#6f6858">FOCUS</text>
+    <text x="18" y="68" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="600" fill="#f2ecdd">MLOps<tspan font-size="13" fill="#a29a88"></tspan></text>
+  </g>
+</svg>

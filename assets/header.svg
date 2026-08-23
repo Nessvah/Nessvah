@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="212" viewBox="0 0 880 212" role="img" aria-label="Sílvia Costa — Cloud and DevOps Engineer">
+  <rect width="880" height="212" rx="10" fill="#14120e" stroke="#2a251c"></rect>
+  <circle cx="795" cy="220" r="150" fill="#ff6a4d" opacity="0.05"></circle>
+  <text x="40" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2.2" fill="#ff6a4d">SÍLVIA COSTA · @NESSVAH</text>
+  <text x="40" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="600" fill="#f2ecdd">I build the pipelines</text>
+  <text x="40" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="600" fill="#f2ecdd">cloud and <tspan fill="#ff6a4d">ML systems</tspan> run on.</text>
+  <text x="40" y="188" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="15" fill="#a29a88">Cloud &amp; DevOps Engineer · AWS &amp; ML certified · heading into Kubernetes and MLOps</text>
+</svg>
